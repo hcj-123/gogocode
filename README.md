@@ -3,6 +3,7 @@
 ## Project setup
 ```
 yarn install
+我在github这边修改了
 ```
 
 ### Compiles and hot-reloads for development
